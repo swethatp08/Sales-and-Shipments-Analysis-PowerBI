@@ -1,9 +1,16 @@
-Sales-and-Shipments-Analysis-PowerBI 
+Sales-and-Shipments-Analysis-PowerBI  
+
 End-to-end Power BI dashboard analyzing sales, profit, shipments, and logistics performance using DAX, time intelligence, and star-schema modeling.
 
+
+---
+
 Project Overview
+
 This project focuses on analyzing sales performance, shipment volume, profitability, and logistics efficiency for a consumer goods business.The awesome chocolate.
 The dashboard is designed to help stakeholders track key KPIs, identify trends, and evaluate performance across time, salespersons, and shipment sizes.
+
+---
 
 
 Business Questions Answered
