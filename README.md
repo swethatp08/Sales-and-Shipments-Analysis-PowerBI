@@ -57,7 +57,7 @@ Tools & Skills Used
 
 Dashboard Preview
 
-
+![Portfolio dashboard](ac dashboard.png)
 
 
 
